@@ -27,6 +27,10 @@ Hasta que a quedado algo tal que así
 
 ***Ejercicio Resuelto***
 
+![ejercicio resuelto 1](https://user-images.githubusercontent.com/73166385/110808364-33b92e00-8284-11eb-9294-ff011b2674de.PNG)
+
+![ejercicio resuelto 2](https://user-images.githubusercontent.com/73166385/110808371-34ea5b00-8284-11eb-9adb-4b2e10ba595c.PNG)
+
 
 
 
