@@ -5,8 +5,11 @@
 
 ***¿Que he hecho?***
 * Primero he descargado el index.html, el style.css y la imágen que esta en el campus.
+  
   Link codigo HTML: https://github.com/Nicogomezbeltran/5-EXAMEN-CSS/blob/main/index.html
-  Link codigo style.css: https://github.com/Nicogomezbeltran/5-EXAMEN-CSS/blob/main/style.css
+ 
+ Link codigo style.css: https://github.com/Nicogomezbeltran/5-EXAMEN-CSS/blob/main/style.css
+  
   Link imágen: https://github.com/Nicogomezbeltran/5-EXAMEN-CSS/blob/main/external-link-52.png
 
 
