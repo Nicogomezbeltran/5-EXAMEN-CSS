@@ -13,7 +13,12 @@
   Link imágen: https://github.com/Nicogomezbeltran/5-EXAMEN-CSS/blob/main/external-link-52.png
   
   
-* Todo esto lo he puesto en el Visual Studio Code
+* Todo esto lo he puesto en el Visual Studio Code.
+
+
+* He ido editando para que tuviera un aspecto similar al del ejercicio propuesto.
+
+* He ido modificando los colores del css, he cambiado el tipo de fuente de los titulos, y también he incluido las imágenes en el codigo.
 
 
 
