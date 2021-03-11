@@ -20,6 +20,9 @@
 
 * He ido modificando los colores del css, he cambiado el tipo de fuente de los titulos, y también he incluido las imágenes en el codigo.
 
+* Para que se notara que el ejercicio es mío, he puesto los colores distintos que como estaba propuesto.
+
+
 Hasta que a quedado algo tal que así
 
 ***Ejercicio Resuelto***
