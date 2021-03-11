@@ -20,6 +20,10 @@
 
 * He ido modificando los colores del css, he cambiado el tipo de fuente de los titulos, y también he incluido las imágenes en el codigo.
 
+Hasta que a quedado algo tal que así
+
+***Ejercicio Resuelto***
+
 
 
 
