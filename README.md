@@ -11,6 +11,10 @@
   Link codigo style.css: https://github.com/Nicogomezbeltran/5-EXAMEN-CSS/blob/main/style.css
   
   Link imágen: https://github.com/Nicogomezbeltran/5-EXAMEN-CSS/blob/main/external-link-52.png
+  
+  
+* Todo esto lo he puesto en el Visual Studio Code
+
 
 
 
